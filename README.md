@@ -21,6 +21,10 @@ Je m'appelle Henry Budzynski, j'ai 19 ans et je suis en première année de BUT 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
 </div>
 
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrybdz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/></img>
+</div>
+
 ### 💡 Centres d'Intérêt
   <div><a>🎮 Gaming</a></div>
   <div><a>🎥 Vidéos et photos</a></div>
