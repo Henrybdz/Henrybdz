@@ -9,33 +9,27 @@ https://www.linkedin.com/in/henry-budzynski-developpement-web/
 
 ### Languages  
 
-<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-</div>
 <br>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrybdz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/></img>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrybdz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/></img>
+
 
 ### Outils & Apps:
 
-<div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-</div>
+
 
 ### Design & UI/UX:
 
-<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="Xd" alt="Xd" width="40" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
-</div>
 
 ### 💡 Centres d'Intérêt
 
-  <div align="center"><a>🎮 Gaming</a></div>
-  <div align="center"><a>🎥 Vidéos et photos</a></div>
-  <div align="center"><a>📚 Lecture sur les nouvelles technologies</a></div>
-  <div align="center"><a>🚗 Automobile</a></div>
-  <div align="center"><a>💻 Programmation</a></div>
+  <div><a>🎮 Gaming</a></div>
+  <div><a>🎥 Vidéos et photos</a></div>
+  <div><a>📚 Lecture sur les nouvelles technologies</a></div>
+  <div><a>🚗 Automobile</a></div>
+  <div><a>💻 Programmation</a></div>
