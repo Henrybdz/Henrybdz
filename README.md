@@ -3,7 +3,8 @@
 ### A propos de moi
 
 <div align="center">Je m'appelle Henry Budzynski, j'ai 19 ans et je suis en première année de BUT MMI à l'IUT de Mulhouse au sein de l'UHA. Je souhaite devenir développeur web car c'est ce qui me passionne dans la formation dans laquelle je suis.</div>
-
+<br>
+<br>
 https://www.linkedin.com/in/henry-budzynski-developpement-web/
 
 ### Languages  
